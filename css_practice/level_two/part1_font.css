@@ -1,0 +1,21 @@
+h1{
+    font-family: cursive;
+    text-align: center;
+}
+
+p{
+    font-family: 'Barrio', cursive;
+    font-style: italic;
+    font-weight: bold;
+}
+
+/*emはせてい↓文字サイズを1とした相対的な値、デフォルトは16px*/
+/*1em = 16px*/
+/*2em = 32px*/
+
+body{
+    font-size: 20px;
+}
+#two{
+    font-size: 1.0em;
+}

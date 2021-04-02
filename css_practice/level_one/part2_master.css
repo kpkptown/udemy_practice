@@ -1,0 +1,19 @@
+body{
+    background: url(https://www.thailandtravel.or.jp/wp-content/uploads/2017/12/408-TRANG_Koh-Kradan_ox10-808x539.jpg);
+    background-repeat: no-repeat;
+}
+div{
+    background-color: blue;
+    border-color: orange;
+    border-width: 5px;
+    border-style: double;
+}
+
+p{
+    color: yellow;
+}
+
+span{
+    background: red;
+    color: black;
+}
